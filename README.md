@@ -51,7 +51,7 @@ If you'd like to add your own custom styles:
     ```scss
     ---
     ---
-
+    
     @import "{{ site.theme }}";
     ```
 3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
